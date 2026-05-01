@@ -49,7 +49,7 @@ Click the **❤ like** button on any post to increment its like count by 1.
 ## Project Structure
 
 ```
-MasterBlog-Flask/
+MasterBlog/
 ├── app.py              # Flask application and routes
 ├── requirements.txt    # Python dependencies
 ├── data/
