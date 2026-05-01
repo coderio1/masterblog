@@ -1,14 +1,32 @@
 [
-  {
-    "id": 1,
-    "author": "John Doe",
-    "title": "First Post",
-    "content": "This is my first post."
-  },
-  {
-    "id": 2,
-    "author": "Jane Doe",
-    "title": "Second Post",
-    "content": "This is another post."
-  }
+    {
+        "id": 1,
+        "author": "John Doe",
+        "title": "First Post",
+        "content": "This is my first post."
+    },
+    {
+        "id": 2,
+        "author": "J.K. Rowling",
+        "title": "Second Post",
+        "content": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+        "id": 3,
+        "author": "John Steinbeck",
+        "title": "Third Post",
+        "content": "East of Eden"
+    },
+    {
+        "id": 4,
+        "author": "Virginia Woolf",
+        "title": "Fourth Post",
+        "content": "To the Lighthouse"
+    },
+    {
+        "id": 5,
+        "author": "Paulo Coelho",
+        "title": "Fifth Post",
+        "content": "The Alchemist"
+    }
 ]
